@@ -1,7 +1,7 @@
-# explore_housing_data
+# Explore Housing Data
 Use data and visualizations to tell an evidence-based story about US housing
 
-#Dog Owners’ Houses Are no Bigger, Except in South Appalachia
+Dog Owners’ Houses Are no Bigger, Except in South Appalachia
 ![Map of difference in square footage by 9 census regions](images/diff_map.png)
 
 According to Zillow’s survey, people that live with dogs don’t choose substantially larger or smaller houses than people without such furry companions. The exception to this finding is dwellers in the East South Central region that spans from Kentucky through Mississippi. The metric used was the average home square footage of both homeowners and renters. 
